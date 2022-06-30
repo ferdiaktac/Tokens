@@ -1,5 +1,5 @@
 {
-  "Light": {
+  "Colors": {
     "Light": {
       "Surface": {
         "Level 1": {
@@ -193,9 +193,7 @@
           "type": "color"
         }
       }
-    }
-  },
-  "Dark": {
+    },
     "Dark": {
       "Surface": {
         "Level 2": {
