@@ -1,0 +1,261 @@
+{
+  "Light": {
+    "Light": {
+      "Surface": {
+        "Level 1": {
+          "value": "#f7f7f7",
+          "type": "color"
+        },
+        "Level 2": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Level 3": {
+          "value": "#ededed",
+          "type": "color"
+        }
+      },
+      "Foreground": {
+        "Level 1": {
+          "value": "#404040",
+          "type": "color"
+        },
+        "Level 2": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Medium Emphasis": {
+          "value": "#969696",
+          "type": "color"
+        },
+        "Low Emphasis": {
+          "value": "#cbcbcb",
+          "type": "color"
+        },
+        "High Emphasis": {
+          "value": "#7c7e7f",
+          "type": "color"
+        }
+      },
+      "Primary": {
+        "Primary": {
+          "value": "#c8102e",
+          "type": "color"
+        },
+        "On Primary": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Light": {
+          "value": "#d54960",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "#9b0003",
+          "type": "color"
+        },
+        "Neutral": {
+          "value": "#e28392",
+          "type": "color"
+        }
+      },
+      "Helper": {
+        "Dark Gray": {
+          "value": "#7c7e7f",
+          "type": "color"
+        },
+        "Light Gray": {
+          "value": "#bbbcbc",
+          "type": "color"
+        },
+        "Borders": {
+          "value": "#ededed",
+          "type": "color"
+        },
+        "Gray": {
+          "value": "#404040",
+          "type": "color"
+        },
+        "Rapsodo Gray": {
+          "value": "#4b4f54",
+          "type": "color"
+        }
+      },
+      "Secondary": {
+        "Secondary": {
+          "value": "#fdf5f7",
+          "type": "color"
+        },
+        "On Secondary": {
+          "value": "#c8102e",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "#f8ced5",
+          "type": "color"
+        }
+      },
+      "Gradients": {
+        "Green": {
+          "value": "linear-gradient(90deg, #addec9 0%, #06c167 100%)",
+          "type": "color"
+        }
+      },
+      "Success": {
+        "Success": {
+          "value": "#05944f",
+          "type": "color"
+        },
+        "On Success": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Light": {
+          "value": "#e6f2ed",
+          "type": "color"
+        },
+        "Medium": {
+          "value": "#06c167",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "#03703c",
+          "type": "color"
+        },
+        "Neutral": {
+          "value": "#addec9",
+          "type": "color"
+        }
+      },
+      "Warning": {
+        "Warning": {
+          "value": "#f3b334",
+          "type": "color"
+        },
+        "On Warning": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Light": {
+          "value": "#fffaf0",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "#bc8b2c",
+          "type": "color"
+        },
+        "Neutral": {
+          "value": "#fff2d9",
+          "type": "color"
+        }
+      },
+      "Danger": {
+        "Danger": {
+          "value": "#cc3e31",
+          "type": "color"
+        },
+        "On Danger": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Light": {
+          "value": "#ffefed",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "#ab1300",
+          "type": "color"
+        },
+        "Neutral": {
+          "value": "#fed7d2",
+          "type": "color"
+        }
+      },
+      "Informative": {
+        "Informative": {
+          "value": "#276ef1",
+          "type": "color"
+        },
+        "On Informative": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Light": {
+          "value": "#eff3fe",
+          "type": "color"
+        },
+        "Dark": {
+          "value": "#174291",
+          "type": "color"
+        },
+        "Neutral": {
+          "value": "#d4e2fc",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "Dark": {
+    "Dark": {
+      "Surface": {
+        "Level 2": {
+          "value": "#1f1f1f",
+          "type": "color"
+        },
+        "Level 1": {
+          "value": "#404040",
+          "type": "color"
+        },
+        "Level 3": {
+          "value": "#7c7e7f",
+          "type": "color"
+        }
+      },
+      "Foreground": {
+        "Level 1": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Level 2": {
+          "value": "#404040",
+          "type": "color"
+        },
+        "Medium Emphasis": {
+          "value": "#bbbcbc",
+          "type": "color"
+        },
+        "Low Emphasis": {
+          "value": "#ededed",
+          "type": "color"
+        },
+        "High Emphasis": {
+          "value": "#969696",
+          "type": "color"
+        }
+      },
+      "Helper": {
+        "Dark Gray": {
+          "value": "#1f1f1f",
+          "type": "color"
+        },
+        "Light Gray": {
+          "value": "#bbbcbc",
+          "type": "color"
+        },
+        "Borders": {
+          "value": "#4b4f54",
+          "type": "color"
+        },
+        "Gray": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "Rapsodo Gray": {
+          "value": "#ffffff",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "$themes": []
+}
