@@ -1,4 +1,44 @@
 {
+  "brand": {
+    "50": {
+      "value": "#e9f7ff",
+      "type": "color",
+      "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision."
+    },
+    "100": {
+      "value": "#c4e5fe",
+      "type": "color",
+      "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements."
+    },
+    "200": {
+      "value": "#8ecdff",
+      "type": "color"
+    },
+    "300": {
+      "value": "#2bb3ff",
+      "type": "color"
+    },
+    "400": {
+      "value": "#008ff8",
+      "type": "color"
+    },
+    "500": {
+      "value": "#006dca",
+      "type": "color"
+    },
+    "600": {
+      "value": "#044792",
+      "type": "color"
+    },
+    "700": {
+      "value": "#002b5f",
+      "type": "color"
+    },
+    "800": {
+      "value": "#001b3d",
+      "type": "color"
+    }
+  },
   "gray": {
     "50": {
       "value": "#f4f5f9",
@@ -40,46 +80,6 @@
     },
     "white": {
       "value": "#ffffff",
-      "type": "color"
-    }
-  },
-  "blue": {
-    "50": {
-      "value": "#e9f7ff",
-      "type": "color",
-      "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision."
-    },
-    "100": {
-      "value": "#c4e5fe",
-      "type": "color",
-      "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements."
-    },
-    "200": {
-      "value": "#8ecdff",
-      "type": "color"
-    },
-    "300": {
-      "value": "#2bb3ff",
-      "type": "color"
-    },
-    "400": {
-      "value": "#008ff8",
-      "type": "color"
-    },
-    "500": {
-      "value": "#006dca",
-      "type": "color"
-    },
-    "600": {
-      "value": "#044792",
-      "type": "color"
-    },
-    "700": {
-      "value": "#002b5f",
-      "type": "color"
-    },
-    "800": {
-      "value": "#001b3d",
       "type": "color"
     }
   },
@@ -360,6 +360,46 @@
     },
     "800": {
       "value": "#002203",
+      "type": "color"
+    }
+  },
+  "blue": {
+    "50": {
+      "value": "#e9f7ff",
+      "type": "color",
+      "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision."
+    },
+    "100": {
+      "value": "#c4e5fe",
+      "type": "color",
+      "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements."
+    },
+    "200": {
+      "value": "#8ecdff",
+      "type": "color"
+    },
+    "300": {
+      "value": "#2bb3ff",
+      "type": "color"
+    },
+    "400": {
+      "value": "#008ff8",
+      "type": "color"
+    },
+    "500": {
+      "value": "#006dca",
+      "type": "color"
+    },
+    "600": {
+      "value": "#044792",
+      "type": "color"
+    },
+    "700": {
+      "value": "#002b5f",
+      "type": "color"
+    },
+    "800": {
+      "value": "#001b3d",
       "type": "color"
     }
   }
