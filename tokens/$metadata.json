@@ -1,8 +1,8 @@
 {
   "tokenSetOrder": [
     "core",
-    "verichannel/default/base",
-    "verichannel/default/tokens",
+    "verichannel/base",
+    "verichannel/tokens",
     "verichannel/xbank/base"
   ]
 }
