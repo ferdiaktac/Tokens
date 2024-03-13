@@ -1,1 +1,12 @@
-[]
+[
+  {
+    "id": "1cc78ffdf94829fb21091d0f07c23a6b6cfd29ec",
+    "name": "default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "verichannel/base": "enabled",
+      "verichannel/tokens": "enabled"
+    },
+    "group": "verichannel"
+  }
+]
