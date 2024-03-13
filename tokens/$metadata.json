@@ -3,6 +3,7 @@
     "core",
     "verichannel/default/base",
     "verichannel/default/tokens",
+    "verichannel/abankasi/tokens",
     "verichannel/xbank/base"
   ]
 }
