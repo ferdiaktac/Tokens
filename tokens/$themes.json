@@ -240,5 +240,15 @@
       "blue.700": "8f7189315560d4eaaff3d0fd0bcb7f11ba31331e",
       "blue.800": "2c600c93ed87fe28224f91f6704311a1465e8c2b"
     }
+  },
+  {
+    "id": "4bf3589a2d791de6930333b204f9340a9a4289f7",
+    "name": "xbank",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "verichannel/xbank/base": "enabled",
+      "verichannel/xbank/tokens": "enabled"
+    },
+    "group": "verichannel"
   }
 ]
