@@ -1,41 +1,41 @@
 {
   "brand": {
     "50": {
-      "value": "#fff1f2",
+      "value": "#fef9da",
       "type": "color",
       "description": "Only suitable for backgrounds. Can be completely invisible to users with low-contrast monitor or poor vision."
     },
     "100": {
-      "value": "#ffe4e6",
+      "value": "#fcedb9",
       "type": "color",
       "description": "Use only for light strokes and active backgrounds. Suitable for minimally visible elements."
     },
     "200": {
-      "value": "#fecdd3",
+      "value": "#fcd579",
       "type": "color"
     },
     "300": {
-      "value": "#fda4af",
+      "value": "#fcbd3a",
       "type": "color"
     },
     "400": {
-      "value": "#fb7185",
+      "value": "#ff8f0e",
       "type": "color"
     },
     "500": {
-      "value": "#f43f5e",
+      "value": "#ed6704",
       "type": "color"
     },
     "600": {
-      "value": "#e11d48",
+      "value": "#c84801",
       "type": "color"
     },
     "700": {
-      "value": "#be123c",
+      "value": "#a82c00",
       "type": "color"
     },
     "800": {
-      "value": "#9f1239",
+      "value": "#842106",
       "type": "color"
     }
   },
