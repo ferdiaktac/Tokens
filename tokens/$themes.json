@@ -5,7 +5,8 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "verichannel/default/base": "enabled",
-      "verichannel/default/tokens": "enabled"
+      "verichannel/default/tokens": "enabled",
+      "verichannel/xbank/tokens": "disabled"
     },
     "group": "verichannel",
     "$figmaCollectionId": "VariableCollectionId:70:9311",
